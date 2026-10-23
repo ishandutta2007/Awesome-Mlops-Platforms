@@ -1,6 +1,6 @@
 # Awesome-Mlops-Platforms
 
-# Top MLOps Platforms Ecosystem
+## Top MLOps Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Experiment Tracking, GenAI Tracing & Model Registry Governance*  
