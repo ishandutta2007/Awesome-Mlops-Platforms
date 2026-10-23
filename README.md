@@ -125,27 +125,27 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 
 ## 🛠️ Open-Source GitHub Projects
 
-### 📊 Open-Source Ecosystem Table (Sorted by GitHub Stars)
+### 📊 Open-Source Ecosystem Table (Sorted by GitHub_Stars)
 
-| Rank | 📦 Project | ⭐ Stars Badge (Stargazers Link) | 📜 License | 🎛️ Primary Function | 💡 Key MLOps Capabilities |
+| Rank | 📦 Project | ⭐ Stars_Badge (Stargazers Link) | 📜 License | 🎛️ Primary Function | 💡 Key MLOps Capabilities |
 | :---: | :--- | :---: | :---: | :--- | :--- |
-| **#1** | **[MLflow](https://github.com/mlflow/mlflow)** | [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers) | Apache-2.0 | Full Lifecycle & LLMOps | Experiment tracking, model registry, GenAI hierarchical tracing, evaluation metrics |
-| **#2** | **[DVC](https://github.com/iterative/dvc)** | [![GitHub stars](https://img.shields.io/github/stars/iterative/dvc?style=social&color=white)](https://github.com/iterative/dvc/stargazers) | Apache-2.0 | Data & Pipeline Versioning | Git-based dataset versioning, reproducible pipeline DAGs, cloud storage remotes |
-| **#3** | **[Kubeflow](https://github.com/kubeflow/kubeflow)** | [![GitHub stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social&color=white)](https://github.com/kubeflow/kubeflow/stargazers) | Apache-2.0 | Kubernetes ML Orchestration | Kubeflow Pipelines (KFP), distributed training operators (Katib), KServe model serving |
-| **#4** | **[Ludwig](https://github.com/ludwig-ai/ludwig)** | [![GitHub stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social&color=white)](https://github.com/ludwig-ai/ludwig/stargazers) | Apache-2.0 | Declarative AI Framework | Low-code deep learning, LLM fine-tuning, Ray-distributed training, configuration-driven |
-| **#5** | **[BentoML](https://github.com/bentoml/BentoML)** | [![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers) | Apache-2.0 | Model Serving & Deployment | High-performance inference runtimes, multi-model pipelines, container generation, vLLM runner |
-| **#6** | **[Evidently](https://github.com/evidentlyai/evidently)** | [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers) | Apache-2.0 | Model Monitoring & Evaluation | Data drift detection, regression/classification test suites, LLM quality evaluations |
-| **#7** | **[Flyte](https://github.com/flyteorg/flyte)** | [![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers) | Apache-2.0 | Workflow Orchestration | Typed Python pipelines, Kubernetes execution engine, memoization, multi-tenant workflows |
-| **#8** | **[Feast](https://github.com/feast-dev/feast)** | [![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social&color=white)](https://github.com/feast-dev/feast/stargazers) | Apache-2.0 | Open-Source Feature Store | Low-latency online inference retrieval (Redis), point-in-time correct offline joins |
-| **#9** | **[ClearML](https://github.com/allegroai/clearml)** | [![GitHub stars](https://img.shields.io/github/stars/allegroai/clearml?style=social&color=white)](https://github.com/allegroai/clearml/stargazers) | Apache-2.0 | Tracking & Orchestration | Auto-logging of code state, random seeds, hyperparameter sweeps, GPU scheduler daemon |
-| **#10** | **[Aim](https://github.com/aimhubio/aim)** | [![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social&color=white)](https://github.com/aimhubio/aim/stargazers) | Apache-2.0 | Self-Hosted Experiment Tracker | High-speed run visualization, 50x faster metric rendering, 100% self-contained Python backend |
-| **#11** | **[ZenML](https://github.com/zenml-io/zenml)** | [![GitHub stars](https://img.shields.io/github/stars/zenml-io/zenml?style=social&color=white)](https://github.com/zenml-io/zenml/stargazers) | Apache-2.0 | Extensible MLOps Framework | Stack abstraction, vendor-agnostic pipeline orchestrator, metadata artifact tracking |
+| **#1** | **[MLflow](https://github.com/mlflow/mlflow)** | [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers) | Apache-2.0 | Full Lifecycle & LLMOps | Experiment tracking, model registry, GenAI hierarchical tracing, evaluation metrics |
+| **#2** | **[DVC](https://github.com/iterative/dvc)** | [![GitHub_Stars](https://img.shields.io/github/stars/iterative/dvc?style=social&color=white)](https://github.com/iterative/dvc/stargazers) | Apache-2.0 | Data & Pipeline Versioning | Git-based dataset versioning, reproducible pipeline DAGs, cloud storage remotes |
+| **#3** | **[Kubeflow](https://github.com/kubeflow/kubeflow)** | [![GitHub_Stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social&color=white)](https://github.com/kubeflow/kubeflow/stargazers) | Apache-2.0 | Kubernetes ML Orchestration | Kubeflow Pipelines (KFP), distributed training operators (Katib), KServe model serving |
+| **#4** | **[Ludwig](https://github.com/ludwig-ai/ludwig)** | [![GitHub_Stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social&color=white)](https://github.com/ludwig-ai/ludwig/stargazers) | Apache-2.0 | Declarative AI Framework | Low-code deep learning, LLM fine-tuning, Ray-distributed training, configuration-driven |
+| **#5** | **[BentoML](https://github.com/bentoml/BentoML)** | [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers) | Apache-2.0 | Model Serving & Deployment | High-performance inference runtimes, multi-model pipelines, container generation, vLLM runner |
+| **#6** | **[Evidently](https://github.com/evidentlyai/evidently)** | [![GitHub_Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers) | Apache-2.0 | Model Monitoring & Evaluation | Data drift detection, regression/classification test suites, LLM quality evaluations |
+| **#7** | **[Flyte](https://github.com/flyteorg/flyte)** | [![GitHub_Stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers) | Apache-2.0 | Workflow Orchestration | Typed Python pipelines, Kubernetes execution engine, memoization, multi-tenant workflows |
+| **#8** | **[Feast](https://github.com/feast-dev/feast)** | [![GitHub_Stars](https://img.shields.io/github/stars/feast-dev/feast?style=social&color=white)](https://github.com/feast-dev/feast/stargazers) | Apache-2.0 | Open-Source Feature Store | Low-latency online inference retrieval (Redis), point-in-time correct offline joins |
+| **#9** | **[ClearML](https://github.com/allegroai/clearml)** | [![GitHub_Stars](https://img.shields.io/github/stars/allegroai/clearml?style=social&color=white)](https://github.com/allegroai/clearml/stargazers) | Apache-2.0 | Tracking & Orchestration | Auto-logging of code state, random seeds, hyperparameter sweeps, GPU scheduler daemon |
+| **#10** | **[Aim](https://github.com/aimhubio/aim)** | [![GitHub_Stars](https://img.shields.io/github/stars/aimhubio/aim?style=social&color=white)](https://github.com/aimhubio/aim/stargazers) | Apache-2.0 | Self-Hosted Experiment Tracker | High-speed run visualization, 50x faster metric rendering, 100% self-contained Python backend |
+| **#11** | **[ZenML](https://github.com/zenml-io/zenml)** | [![GitHub_Stars](https://img.shields.io/github/stars/zenml-io/zenml?style=social&color=white)](https://github.com/zenml-io/zenml/stargazers) | Apache-2.0 | Extensible MLOps Framework | Stack abstraction, vendor-agnostic pipeline orchestrator, metadata artifact tracking |
 
 ---
 
 ### 🔍 Detailed Open-Source Profiles
 
-#### 1. 🥇 [MLflow](https://github.com/mlflow/mlflow) [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)
+#### 1. 🥇 [MLflow](https://github.com/mlflow/mlflow) [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)
 * **Architecture**: Python-based tracking server connecting to a relational metadata backend (PostgreSQL/MySQL) and S3/GCS/Azure blob artifact storage.
 * **Key Components**:
   * **MLflow Tracking**: Log parameters, code versions, metrics, and output files with minimal code changes.
@@ -154,7 +154,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Requires managing your own PostgreSQL database and object storage; default SQLite backend is unsuitable for concurrent production writes.
 * **Best Fit**: Teams looking for an unencumbered, battle-tested open-source standard for tracking and model registries.
 
-#### 2. 🥈 [DVC (Data Version Control)](https://github.com/iterative/dvc) [![GitHub stars](https://img.shields.io/github/stars/iterative/dvc?style=social&color=white)](https://github.com/iterative/dvc/stargazers)
+#### 2. 🥈 [DVC (Data Version Control)](https://github.com/iterative/dvc) [![GitHub_Stars](https://img.shields.io/github/stars/iterative/dvc?style=social&color=white)](https://github.com/iterative/dvc/stargazers)
 * **Architecture**: Command-line tool extending Git to track pointer files representing large datasets and models stored in remote cloud buckets (S3, GCS, Azure Blob, SSH).
 * **Key Components**:
   * **Data Versioning**: Tracks gigabytes/terabytes of files using Git commit hashes and content-addressable metadata.
@@ -162,7 +162,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Lightweight CLI with zero persistent daemons or background databases required.
 * **Best Fit**: Data engineering and ML teams requiring deterministic data reproducibility without vendor lock-in.
 
-#### 3. 🥉 [Kubeflow](https://github.com/kubeflow/kubeflow) [![GitHub stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social&color=white)](https://github.com/kubeflow/kubeflow/stargazers)
+#### 3. 🥉 [Kubeflow](https://github.com/kubeflow/kubeflow) [![GitHub_Stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social&color=white)](https://github.com/kubeflow/kubeflow/stargazers)
 * **Architecture**: Comprehensive Kubernetes-native cloud-agnostic ML deployment platform.
 * **Key Components**:
   * **Kubeflow Pipelines (KFP)**: Multi-step pipeline compilation and execution using Argo Workflows.
@@ -171,7 +171,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: High operational threshold; requires dedicated DevOps/Kubernetes engineering capabilities.
 * **Best Fit**: Large enterprises with established Kubernetes infrastructure and dedicated platform operations teams.
 
-#### 4. 🧠 [Ludwig](https://github.com/ludwig-ai/ludwig) [![GitHub stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social&color=white)](https://github.com/ludwig-ai/ludwig/stargazers)
+#### 4. 🧠 [Ludwig](https://github.com/ludwig-ai/ludwig) [![GitHub_Stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social&color=white)](https://github.com/ludwig-ai/ludwig/stargazers)
 * **Architecture**: Declarative framework allowing users to define deep learning architectures, LLM fine-tuning, and evaluation pipelines via YAML configs.
 * **Key Components**:
   * **Declarative Configuration**: Zero-code specification for encoders, combiners, and decoders.
@@ -179,7 +179,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Excellent for democratizing ML development across junior engineers and data scientists.
 * **Best Fit**: Rapid prototyping, structured tabular/text/image modeling, and parameter-efficient fine-tuning (PEFT/LoRA).
 
-#### 5. 🚀 [BentoML](https://github.com/bentoml/BentoML) [![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)
+#### 5. 🚀 [BentoML](https://github.com/bentoml/BentoML) [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)
 * **Architecture**: High-throughput model serving architecture that unifies inference APIs, dynamic batching, and containerization.
 * **Key Components**:
   * **Runner Architecture**: Isolates compute-intensive model inference from web request handling.
@@ -187,7 +187,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Extremely fast startup times with native vLLM and Hugging Face integration.
 * **Best Fit**: Moving models from Jupyter notebooks into resilient, auto-scaling production microservices.
 
-#### 6. 📊 [Evidently](https://github.com/evidentlyai/evidently) [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)
+#### 6. 📊 [Evidently](https://github.com/evidentlyai/evidently) [![GitHub_Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)
 * **Architecture**: Evaluation and monitoring engine that generates interactive reports, JSON test suites, and live streaming metrics.
 * **Key Components**:
   * **Data & Target Drift**: Statistical tests (Wasserstein distance, KS test) detecting production distribution shifts.
@@ -195,7 +195,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Can run as an ad-hoc Python library or deploy as a persistent self-hosted monitoring server.
 * **Best Fit**: Preventing silent model decay and validating data quality across ingestion and inference pipelines.
 
-#### 7. ✈️ [Flyte](https://github.com/flyteorg/flyte) [![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers)
+#### 7. ✈️ [Flyte](https://github.com/flyteorg/flyte) [![GitHub_Stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers)
 * **Architecture**: Production-grade, Kubernetes-native workflow engine created at Lyft; built with strongly typed tasks and workflows.
 * **Key Components**:
   * **Type-Safe Task Contracts**: Enforces strict input/output signatures across distributed pipeline steps.
@@ -203,7 +203,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Unmatched reliability for mission-critical pipelines; requires Kubernetes cluster administration.
 * **Best Fit**: Enterprise ML teams executing complex, multi-tenant distributed training and batch processing pipelines.
 
-#### 8. 🍽️ [Feast](https://github.com/feast-dev/feast) [![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social&color=white)](https://github.com/feast-dev/feast/stargazers)
+#### 8. 🍽️ [Feast](https://github.com/feast-dev/feast) [![GitHub_Stars](https://img.shields.io/github/stars/feast-dev/feast?style=social&color=white)](https://github.com/feast-dev/feast/stargazers)
 * **Architecture**: Standard open-source feature store managing dual storage layers: low-latency online stores (Redis, DynamoDB) and analytical offline stores (Snowflake, BigQuery, DuckDB).
 * **Key Components**:
   * **Point-in-Time Joins**: Eliminates data leakage during model training.
@@ -211,7 +211,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Modular and customizable; integrates with standard data warehouses.
 * **Best Fit**: Real-time recommendation systems, fraud detection, and predictive scoring models.
 
-#### 9. 🤖 [ClearML OSS](https://github.com/allegroai/clearml) [![GitHub stars](https://img.shields.io/github/stars/allegroai/clearml?style=social&color=white)](https://github.com/allegroai/clearml/stargazers)
+#### 9. 🤖 [ClearML OSS](https://github.com/allegroai/clearml) [![GitHub_Stars](https://img.shields.io/github/stars/allegroai/clearml?style=social&color=white)](https://github.com/allegroai/clearml/stargazers)
 * **Architecture**: All-in-one suite providing tracking server, web UI, dataset manager, and distributed compute daemon (`clearml-agent`).
 * **Key Components**:
   * **Zero-Code Integration**: Automatically tracks script arguments, Git commit hashes, and environment variables.
@@ -219,7 +219,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Multi-service self-hosted stack uses Docker Compose / Helm (PostgreSQL, MongoDB, ElasticSearch, Web UI).
 * **Best Fit**: Teams wanting both tracking and cluster orchestration in a single unified open-source package.
 
-#### 10. 🎯 [Aim](https://github.com/aimhubio/aim) [![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social&color=white)](https://github.com/aimhubio/aim/stargazers)
+#### 10. 🎯 [Aim](https://github.com/aimhubio/aim) [![GitHub_Stars](https://img.shields.io/github/stars/aimhubio/aim?style=social&color=white)](https://github.com/aimhubio/aim/stargazers)
 * **Architecture**: Ultra-lightweight experiment tracker built on top of a custom RocksDB-backed storage engine.
 * **Key Components**:
   * **High-Performance UI**: Renders tens of thousands of metric curves and run comparisons smoothly.
@@ -227,7 +227,7 @@ The sector is currently **moderately fragmented** but undergoing rapid architect
 * **Operational Considerations**: Focuses strictly on experiment tracking; does not include built-in model serving or cluster scheduling.
 * **Best Fit**: Solo practitioners, academic labs, and engineering teams that want a snappy, self-hosted UI with zero overhead.
 
-#### 11. 🧩 [ZenML](https://github.com/zenml-io/zenml) [![GitHub stars](https://img.shields.io/github/stars/zenml-io/zenml?style=social&color=white)](https://github.com/zenml-io/zenml/stargazers)
+#### 11. 🧩 [ZenML](https://github.com/zenml-io/zenml) [![GitHub_Stars](https://img.shields.io/github/stars/zenml-io/zenml?style=social&color=white)](https://github.com/zenml-io/zenml/stargazers)
 * **Architecture**: Extensible MLOps orchestration framework that decouples pipeline code from the underlying infrastructure stack.
 * **Key Components**:
   * **MLOps Stacks**: Swap out artifact stores (S3), orchestrators (Airflow/Kubeflow), and tracking backends (MLflow/W&B) with simple config flags.
@@ -273,7 +273,7 @@ Contributions, reviews, and updates are warmly welcomed! Please follow these ste
 2. **Create a branch**: `git checkout -b feature/add-new-platform`.
 3. **Format entries**:
    - Provide verified starting tier pricing and specific free tier limits.
-   - For open-source tools, include the repository URL and shields social star badge.
+   - For open-source tools, include the repository URL and shields social Stars_Badge.
    - Maintain objective, factual technical descriptions.
 4. **Submit a Pull Request** with a concise summary of the addition or revision.
 
